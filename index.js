@@ -10,7 +10,7 @@
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+YouTube : http://www.youtube.com/@LeftDC-33                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎥 Watching LEFT DC Youtube Channel"];
+const statusMessages = ["At Flex Everyone is Welcome 🎉"];
 const statusTypes = [ 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
@@ -94,7 +94,7 @@ login();
         \/       \/                     \/  
                     
 DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+YouTube : http://www.youtube.com/@LeftDC-33                         
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
